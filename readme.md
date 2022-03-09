@@ -10,6 +10,14 @@ exemplo:
 ./run.sh ex_1.cs
 ```
 
+#### Error permission denied 
+
+Para solucionar o erro de `permission denined` você precisa dar premissão de execução ao arquivo `run.sh`.
+
+```console
+sudo chmod +x run.sh
+```
+
 ### Valores de exemplo
 
 ```
