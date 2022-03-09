@@ -1,14 +1,13 @@
 using System;
 
-class bascara
+class bhaskara
 {
   static void Main()
   {
-    double a = 0, b, c, delta, x_1, x_2;
-
-    Console.WriteLine("Digite o primeiro valor: ");
     try
     {
+      double a = 0, b, c, delta, x_1, x_2;
+      Console.WriteLine("Digite o primeiro valor: ");
       a = Single.Parse(Console.ReadLine());
       Console.WriteLine("Digite o segundo valor: ");
       b = Single.Parse(Console.ReadLine());
@@ -31,7 +30,5 @@ class bascara
       Console.WriteLine("OPS :( Algo deu errado! ");
       System.Environment.Exit(1);
     }
-
-
   }
 }
