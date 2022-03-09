@@ -6,8 +6,8 @@ Para rodar o projeto, execute o arquivo `run.sh` passando o nome do arquivo que 
 
 exemplo: 
 
-```shellScript
-run.sh ex_1.cs
+```console
+./run.sh ex_1.cs
 ```
 
 ### Valores de exemplo
