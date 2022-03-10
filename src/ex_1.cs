@@ -1,6 +1,6 @@
 using System;
 
-class chapim
+class average_class
 {
   static void Main()
   {
@@ -50,7 +50,7 @@ class chapim
     }
     catch
     {
-      Console.WriteLine(" OPS :(  Algo deu errado!!");
+      Console.WriteLine(" OPS :/  Algo deu errado!!");
     }
   }
 }
