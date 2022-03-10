@@ -4,11 +4,13 @@
 
 Para rodar o projeto, execute o arquivo `run.sh` passando o nome do arquivo que deseja ser executado.
 
-exemplo: 
+- O arquivo de `run.sh` esta dentro do diretório `/src/`
 
-```console
-./run.sh ex_1.cs
-```
+  exemplo: 
+
+  ```console
+  ./run.sh ex_1.cs
+  ```
 
 #### Error permission denied 
 
