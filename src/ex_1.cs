@@ -34,7 +34,7 @@ class average_class
 
 
       Console.Clear();
-      Console.WriteLine(" ----- Cálculo da média dos alunos  ----- ")
+      Console.WriteLine(" ----- Cálculo da média dos alunos  ----- ");
       Console.WriteLine(" id" + " --- " + "Nome do aluno" + "  --- " + "    idade do aluno\n");
 
       for (int x = 0; x < 4; x++)
